@@ -4,7 +4,7 @@
 This project uses AWS Lambda and S3 to automatically process images when uploaded to an input S3 bucket. The image is resized and stored in an output bucket.
 
 ## Architecture
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](A_flowchart_diagram_illustrates_a_serverless_image.png)
 
 ## How It Works
 1. User uploads an image to the S3 input bucket.
