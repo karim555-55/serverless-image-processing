@@ -25,4 +25,4 @@ This project uses AWS Lambda and S3 to automatically process images when uploade
 4. Upload images to test.
 
 ## Author
-Basmala Alaa
+karim Alaa
